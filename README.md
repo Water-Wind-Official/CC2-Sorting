@@ -44,6 +44,8 @@ Use the pastebin program to download the script (You will need the Pastebin ID f
 
 pastebin get f591P2sY sort.lua
 
+use KTL42wJN for the same script but adjusted with ores/ingots sorted, instead of wood. 
+
 
 2. Configure Item Targets
 
